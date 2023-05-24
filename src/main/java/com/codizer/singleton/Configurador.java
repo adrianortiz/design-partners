@@ -1,13 +1,13 @@
 package com.codizer.singleton;
 
-public class Cofigurador {
+public class Configurador {
 
     private String carpeta;
 
-    public Cofigurador() {
+    public Configurador() {
     }
 
-    public Cofigurador(String carpeta) {
+    public Configurador(String carpeta) {
         this.carpeta = carpeta;
     }
 
