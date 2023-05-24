@@ -1,4 +1,4 @@
-package com.codizer.singleton.example2;
+package com.codizer.creational.singleton.example2;
 
 import java.io.IOException;
 

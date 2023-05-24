@@ -1,4 +1,4 @@
-package com.codizer.facade.example3;
+package com.codizer.creational.facade.example3;
 
 public class User {
 

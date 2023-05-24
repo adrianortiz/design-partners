@@ -1,4 +1,4 @@
-package com.codizer.singleton.example1;
+package com.codizer.creational.singleton.example1;
 
 public class Configurator {
 

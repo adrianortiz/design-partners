@@ -1,4 +1,4 @@
-package com.codizer.iterator.example4;
+package com.codizer.creational.iterator.example4;
 
 import java.util.ArrayList;
 import java.util.Iterator;
