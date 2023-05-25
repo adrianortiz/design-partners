@@ -9,6 +9,7 @@ Aplicación Java
   * Factory
   * Prototype
   * Builder
+  * Abstract Factory
 * y más
 
 Actualmente este proyecto no está terminado y posiblemente presente anomalias en su código fuente, por ende, se recomienda no usarlo en un ambiente productivo.
