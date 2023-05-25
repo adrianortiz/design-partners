@@ -2,14 +2,19 @@
 Aplicación Java
 
 **Características:**
+
 * Creational Pattern
   * Singleton
-  * Facade
   * Iterator
   * Factory
   * Prototype
   * Builder
   * Abstract Factory
+  
+* Structural Pattern
+  * Facade
+  * Composite
+  
 * y más
 
 Actualmente este proyecto no está terminado y posiblemente presente anomalias en su código fuente, por ende, se recomienda no usarlo en un ambiente productivo.

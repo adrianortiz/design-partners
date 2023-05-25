@@ -1,4 +1,4 @@
-package com.codizer.creational.facade;
+package com.codizer.structural.facade;
 
 public class ServiceValidator {
 
